@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Rui Romano"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Rui is passionate about data and a frequent speaker on Microsoft events and user groups. Lives in Portugal and works as a Senior Program Manager @ Microsoft | Power BI CAT team"
+  bio    : "Rui is passionate about data, lives in Portugal and works on Power BI CAT team"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
